@@ -39,7 +39,7 @@
           "return_url": "http://www.ebay.com",
           "cancel_url": "http://www.milo.com"
       }
-  }
+  },
   "products":[
     {
        "id": 1,

@@ -10,13 +10,6 @@
     { "id": 2, "title": "Oneplus8","name": "Oneplus 8 pro", "price": "$400" },
     { "id": 3, "title": "Rogue","name": "Rogue 2", "price": "$300" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "products":[
     {
        "id": 1,

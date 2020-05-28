@@ -15,45 +15,58 @@
 	"searchResults": {
 		"phones": [{
 				"id": 1,
+				"sku":"IPH6",
 				"title": "iPhone",
 				"name": "iPhone 6",
-				"price": "$600"
+				"salePrice": "$600"
 			},
 			{
 				"id": 2,
+				"sku":"ON8P",
 				"title": "Oneplus8",
 				"name": "Oneplus 8 pro",
-				"price": "$400"
+				"salePrice": "$400"
 			},
 			{
 				"id": 3,
+				"sku":"ARO2",
 				"title": "Rogue",
 				"name": "Rogue 2",
-				"price": "$300"
+				"salePrice": "$300"
 			}
 		],
 		"laptops": [{
+				"id":1,
 				"sku": 4600301,
+				"title": "Apple MacBook Pro",
 				"name": "Apple - MacBook Pro 15.4\" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD - Silver",
 				"salePrice": 2399.99
 			},
 			{
+				"id":2,
 				"sku": 4766300,
+				"title":"Samsung Refurbished ATIV Book"
 				"name": "Samsung - Geek Squad Certified Refurbished ATIV Book 9 Spin 13.3\" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB SSD - Pure Black",
 				"salePrice": 1199.99
 			},
-			{
+			{	
+				"id":3,
 				"sku": 5465502,
+				"title":"Apple - MacBook Air",
 				"name": "Apple - MacBook Air®  - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
 				"salePrice": 799.99
 			},
 			{
+				"id":4,
 				"sku": 5713552,
+				"title": "Lenovo 14\" Refurbished ThinkPad",
 				"name": "Lenovo - ThinkPad 14\" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive - Black",
 				"salePrice": 439.99
 			},
 			{
+				"id":5,
 				"sku": 5713560,
+				"title": "Dell Refurbished Latitude",
 				"name": "Dell - Latitude 14\" Refurbished Laptop  - Intel Core i5 - 8GB Memory - 240GB Solid State Drive",
 				"salePrice": 392.99
 			}

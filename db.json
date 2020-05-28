@@ -20,12 +20,14 @@
             "sku":"IPH6",
             "title":"iPhone",
             "name":"iPhone 6",
+            "stock":10,
             "salePrice":"$600"
          },
          {
             "id":2,
             "sku":"ON8P",
             "title":"Oneplus8",
+            "stock":0,
             "name":"Oneplus 8 pro",
             "salePrice":"$400"
          },
@@ -34,6 +36,7 @@
             "sku":"ARO2",
             "title":"Rogue",
             "name":"Rogue 2",
+            "stock":4,
             "salePrice":"$300"
          }
       ],
@@ -43,6 +46,7 @@
             "sku":4600301,
             "title":"Apple MacBook Pro",
             "name":"Apple - MacBook Pro 15.4\" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD - Silver",
+            "stock":12,
             "salePrice":2399.99
          },
          {
@@ -50,6 +54,7 @@
             "sku":4766300,
             "title":"Samsung Refurbished ATIV Book",
             "name":"Samsung - Geek Squad Certified Refurbished ATIV Book 9 Spin 13.3\" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB SSD - Pure Black",
+            "stock":2,
             "salePrice":1199.99
          },
          {
@@ -57,6 +62,7 @@
             "sku":5465502,
             "title":"Apple - MacBook Air",
             "name":"Apple - MacBook Air®  - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+            "stock":4,
             "salePrice":799.99
          },
          {
@@ -64,6 +70,7 @@
             "sku":5713552,
             "title":"Lenovo 14\" Refurbished ThinkPad",
             "name":"Lenovo - ThinkPad 14\" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive - Black",
+            "stock":12,
             "salePrice":439.99
          },
          {
@@ -71,6 +78,7 @@
             "sku":5713560,
             "title":"Dell Refurbished Latitude",
             "name":"Dell - Latitude 14\" Refurbished Laptop  - Intel Core i5 - 8GB Memory - 240GB Solid State Drive",
+            "stock":7,
             "salePrice":392.99
          }
       ]

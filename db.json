@@ -1,18 +1,35 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"Post 1"
-      },
-      {
-         "id":2,
-         "title":"Post 2"
-      },
-      {
-         "id":3,
-         "title":"Post 3"
-      }
-   ],
+   "products":[
+  {
+    "id": "3",
+    "title": "Post 1",
+    "createdAt": "2020-06-30T23:17:56.173Z",
+    "description": "description 3",
+    "images": "http://lorempixel.com/640/480/nature",
+    "material": "Plastic",
+    "name": "Practical Plastic Pants",
+    "price": "122.00"
+  },
+  {
+    "id": 2,
+    "title": "Post 2",   
+    "createdAt": "2020-06-30T23:17:56.173Z",
+    "description": "description 3",
+    "images": "http://lorempixel.com/640/480/nature",
+    "material": "Plastic",
+    "name": "Practical Plastic Pants",
+    "price": "122.00"
+  },
+  {
+    "id": 3,
+    "title": "Post 3",    "createdAt": "2020-06-30T23:17:56.173Z",
+    "description": "description 3",
+    "images": "http://lorempixel.com/640/480/nature",
+    "material": "Plastic",
+    "name": "Practical Plastic Pants",
+    "price": "122.00"
+  }
+],
    "searchResults":{
       "phones":[
          {

@@ -67,36 +67,51 @@
          "description": "Steppings Trendy Boots - Buy Steppings Trendy Boots - XF-04 only for Rs. 719 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!"
       },
       {
-      "id": 6,
-      "createdAt": "2020-06-30T23:17:56.173Z",
-      "product_url": "http://www.flipkart.com/ten-women-s-black-knee-length-boots/p/itmeck2fhpccrf5p?pid=SHOECK2FYYWUT4KM",
-      "product_name": "TEN TEN Women's Black Knee Length Boots Boots",
-      "product_category_tree": [
-        "Footwear >> Women's Footwear >> Casual Shoes >> Boots"
-      ],
-      "price": 4995,
-      "discounted_price": 1995,
-      "images":"http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
-      "description": "TEN TEN Women's Black Knee Length Boots Boots"
+         "id": 6,
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "product_url": "http://www.flipkart.com/ten-women-s-black-knee-length-boots/p/itmeck2fhpccrf5p?pid=SHOECK2FYYWUT4KM",
+         "product_name": "TEN TEN Women's Black Knee Length Boots Boots",
+         "product_category_tree": [
+            "Footwear >> Women's Footwear >> Casual Shoes >> Boots"
+         ],
+         "price": 4995,
+         "discounted_price": 1995,
+         "images": "http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
+         "description": "TEN TEN Women's Black Knee Length Boots Boots"
       },
       {
-       "id": 7,
-       "crawl_timestamp": "2015-12-04 07:25:36 +0000",
-       "product_url": "http://www.flipkart.com/cobra-paris-co6394a1-analog-watch-men-boys/p/itme3faxhgg8jhbr?pid=WATE3FAXGFHMASYX",
-       "product_name": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys",
-       "product_category_tree": [
-         "Watches >> Wrist Watches >> Cobra Paris Wrist Watches"
-       ],
-       "pid": "WATE3FAXGFHMASYX",
-       "price": 18995,
-       "discounted_price": 15195,
-       "images": "http://img6a.flixcart.com/image/watch/s/y/x/co6394a1-cobra-paris-original-imae3ewvtzeazghm.jpeg",
-       "is_fk_advantage_product": false,
-       "description": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys - Buy Cobra Paris CO6394A1 Analog Watch  - For Men, Boys  CO6394A1 Online at Rs.15195 in India Only at Flipkart.com. - Great Discounts, Only Genuine Products, 30 Day Replacement Guarantee, Free Shipping. Cash On Delivery!",
-       "product_rating": "No rating available",
-       "overall_rating": "No rating available",
-       "brand": ""
-   }
+         "id": 7,
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "product_url": "http://www.flipkart.com/cobra-paris-co6394a1-analog-watch-men-boys/p/itme3faxhgg8jhbr?pid=WATE3FAXGFHMASYX",
+         "product_name": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys",
+         "product_category_tree": [
+            "Watches >> Wrist Watches >> Cobra Paris Wrist Watches"
+         ],
+         "pid": "WATE3FAXGFHMASYX",
+         "price": 18995,
+         "discounted_price": 15195,
+         "images": "http://img6a.flixcart.com/image/watch/s/y/x/co6394a1-cobra-paris-original-imae3ewvtzeazghm.jpeg",
+         "is_fk_advantage_product": false,
+         "description": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys - Buy Cobra Paris CO6394A1 Analog Watch  - For Men, Boys  CO6394A1 Online at Rs.15195 in India Only at Flipkart.com. - Great Discounts, Only Genuine Products, 30 Day Replacement Guarantee, Free Shipping. Cash On Delivery!",
+         "product_rating": "No rating available",
+         "overall_rating": "No rating available",
+         "brand": ""
+      },
+      {
+         "id": 8,
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "product_url": "http://www.flipkart.com/silver-streak-men-s-printed-casual-denim-shirt/p/itmeb5mnmvd4tzh5?pid=SHTEB5MNYHJJQGBJ",
+         "product_name": "Silver Streak Men's Printed Casual Denim Shirt",
+         "product_category_tree": [
+            "Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Silver Streak Casual & Party Wear Shirts"
+         ],
+         "pid": "SHTEB5MNYHJJQGBJ",
+         "price": 1299,
+         "discounted_price": 599,
+         "images": "http://img6a.flixcart.com/image/shirt/g/b/j/ss-viv-pdnm-silver-streak-38-original-imaeb5bw53gfxmyz.jpeg",
+         "description": "Silver Streak Men's Printed Casual Denim Shirt - Buy Blue Silver Streak Men's Printed Casual Denim Shirt For Only Rs. 1299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+         "brand": "Slim"
+      }
    ],
    "searchResults": {
       "phones": [

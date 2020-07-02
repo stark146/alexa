@@ -1,0 +1,104 @@
+{
+   "products": [
+      {
+         "id": "1",
+         "title": "Spring shirt",
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "description": "description 3",
+         "images": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2.jpg",
+         "material": "Plastic",
+         "name": "Spring double pocket shirt",
+         "price": "122.00"
+      },
+      {
+         "id": 2,
+         "title": "Post 2",
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "description": "description 3",
+         "images": "https://lh3.googleusercontent.com/proxy/wCmFnzud033XLOh3f0HHNsHYzw0DlWHBmRwE9dOCD3LrwcCkI40gHbW7fbLuOgEI5TKysfUOChdw8kRdu4Dnl4YfUb7R3EUIXcYoDa1Y5Vp354oAxCpiIU7Zo28ihRWzpaboIo32F_m7SrAs8Az3pyNzffFAy0HtPGmAJcmE6jqwJsow",
+         "material": "Plastic",
+         "name": "Stylish Shirt",
+         "price": "122.00"
+      },
+      {
+         "id": 3,
+         "title": "Post 3",
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "description": "description 3",
+         "images": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2116967/2017/9/27/11506511538536-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-3781506511538347-1.jpg",
+         "material": "Plastic",
+         "name": "Roadster Men Regular Fit Shirt",
+         "price": "122.00"
+      }
+   ],
+   "searchResults": {
+      "phones": [
+         {
+            "id": 1,
+            "sku": "IPH6",
+            "title": "iPhone",
+            "name": "iPhone 6",
+            "stock": 10,
+            "salePrice": "$600"
+         },
+         {
+            "id": 2,
+            "sku": "ON8P",
+            "title": "Oneplus8",
+            "stock": 0,
+            "name": "Oneplus 8 pro",
+            "salePrice": "$400"
+         },
+         {
+            "id": 3,
+            "sku": "ARO2",
+            "title": "Rogue",
+            "name": "Rogue 2",
+            "stock": 4,
+            "salePrice": "$300"
+         }
+      ],
+      "laptops": [
+         {
+            "id": 1,
+            "sku": 4600301,
+            "title": "Apple MacBook Pro",
+            "name": "Apple - MacBook Pro 15.4\" Display with Touch Bar - Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD - Silver",
+            "stock": 12,
+            "salePrice": 2399.99
+         },
+         {
+            "id": 2,
+            "sku": 4766300,
+            "title": "Samsung Refurbished ATIV Book",
+            "name": "Samsung - Geek Squad Certified Refurbished ATIV Book 9 Spin 13.3\" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB SSD - Pure Black",
+            "stock": 2,
+            "salePrice": 1199.99
+         },
+         {
+            "id": 3,
+            "sku": 5465502,
+            "title": "Apple - MacBook Air",
+            "name": "Apple - MacBook Air®  - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+            "stock": 4,
+            "salePrice": 799.99
+         },
+         {
+            "id": 4,
+            "sku": 5713552,
+            "title": "Lenovo 14\" Refurbished ThinkPad",
+            "name": "Lenovo - ThinkPad 14\" Refurbished Laptop - Intel Core i5 - 8GB Memory - 240GB Solid State Drive - Black",
+            "stock": 12,
+            "salePrice": 439.99
+         },
+         {
+            "id": 5,
+            "sku": 5713560,
+            "title": "Dell Refurbished Latitude",
+            "name": "Dell - Latitude 14\" Refurbished Laptop  - Intel Core i5 - 8GB Memory - 240GB Solid State Drive",
+            "stock": 7,
+            "salePrice": 392.99
+         }
+      ]
+   }
+}

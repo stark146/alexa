@@ -8,7 +8,8 @@
          "images": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2.jpg",
          "material": "Plastic",
          "name": "Spring double pocket shirt",
-         "price": "165.00"
+         "price": "165.00",
+         "best":"true"
       },
       {
          "id": 2,
@@ -18,7 +19,8 @@
          "images": "https://lh3.googleusercontent.com/proxy/wCmFnzud033XLOh3f0HHNsHYzw0DlWHBmRwE9dOCD3LrwcCkI40gHbW7fbLuOgEI5TKysfUOChdw8kRdu4Dnl4YfUb7R3EUIXcYoDa1Y5Vp354oAxCpiIU7Zo28ihRWzpaboIo32F_m7SrAs8Az3pyNzffFAy0HtPGmAJcmE6jqwJsow",
          "material": "Plastic",
          "name": "Stylish Shirt",
-         "price": "102.00"
+         "price": "102.00",
+         "best":"true"
       },
       {
          "id": 3,
@@ -28,7 +30,8 @@
          "images": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2116967/2017/9/27/11506511538536-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-3781506511538347-1.jpg",
          "material": "Plastic",
          "name": "Roadster Men Regular Fit Shirt",
-         "price": "122.00"
+         "price": "122.00",
+         "best":"true"
       },
       {
          "id": 4,
@@ -79,7 +82,7 @@
          "discounted_price": 1995,
          "images": "http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
          "description": "TEN TEN Women's Black Knee Length Boots Boots",
-         "best":"true"
+         "best":"false"
       },
       {
          "id": 7,
@@ -98,7 +101,7 @@
          "product_rating": "No rating available",
          "overall_rating": "No rating available",
          "brand": "",
-         "best":"true"
+         "best":"false"
       },
       {
          "id": 8,
@@ -114,7 +117,7 @@
          "images": "http://img6a.flixcart.com/image/shirt/g/b/j/ss-viv-pdnm-silver-streak-38-original-imaeb5bw53gfxmyz.jpeg",
          "description": "Silver Streak Men's Printed Casual Denim Shirt - Buy Blue Silver Streak Men's Printed Casual Denim Shirt For Only Rs. 1299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
          "brand": "Slim",
-         "best":"true"
+         "best":"false"
       }
    ],
    "searchResults": {

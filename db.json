@@ -77,10 +77,7 @@
       "price": 4995,
       "discounted_price": 1995,
       "images":"http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
-      "description": "TEN TEN Women's Black Knee Length Boots Boots",
-      "product_rating": "No rating available",
-      "overall_rating": "No rating available",
-      "brand": "",
+      "description": "TEN TEN Women's Black Knee Length Boots Boots"
       },
       {
        "id": 7,
@@ -99,21 +96,6 @@
        "product_rating": "No rating available",
        "overall_rating": "No rating available",
        "brand": ""
-   },
-   {
-    "id": 9,
-    "crawl_timestamp": "2015-12-03 04:43:13 +0000",
-    "product_url": "http://www.flipkart.com/silver-streak-men-s-printed-casual-denim-shirt/p/itmeb5mnmvd4tzh5?pid=SHTEB5MNYHJJQGBJ",
-    "product_name": "Silver Streak Men's Printed Casual Denim Shirt",
-    "product_category_tree": [
-      "Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Silver Streak Casual & Party Wear Shirts"
-    ],
-    "pid": "SHTEB5MNYHJJQGBJ",
-    "price": 1299,
-    "discounted_price": 599,
-    "images": "http://img6a.flixcart.com/image/shirt/g/b/j/ss-viv-pdnm-silver-streak-38-original-imaeb5bw53gfxmyz.jpeg",
-    "description": "Silver Streak Men's Printed Casual Denim Shirt - Buy Blue Silver Streak Men's Printed Casual Denim Shirt For Only Rs. 1299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
-    "brand": "Slim"
    }
    ],
    "searchResults": {

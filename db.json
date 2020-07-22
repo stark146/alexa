@@ -126,7 +126,20 @@
          "description": "Silver Streak Men's Printed Casual Denim Shirt - Buy Blue Silver Streak Men's Printed Casual Denim Shirt For Only Rs. 1299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
          "brand": "Slim",
          "best":"false"
-      }
+      },
+      {
+         "id": 9,
+         "title": "CURIOUS LIFESTYLE Men's Regular Fit T-Shirt",
+         "createdAt": "2020-06-30T23:17:56.173Z",
+         "description": "Care Instructions: Do Not use Hot Iron on Printed area, Do Not bleach, Dry in sades|Fit Type: Regular Fit|Fabric: 100% Cotton|Neck Style: Round Neck|Pattern: Printed|Sleeve Type: Half Sleeve",
+         "images": "https://www.amazon.in/images/I/61oaOTHafwL._UL1500_.jpg",
+         "material": "Cotton",
+         "colors": ["green","gray","violet","black"],
+         "name": "Men's Regular Fit T-Shirt",
+         "price": "102.00",
+         "brand":"CURIOUS LIFESTYLE",
+         "best":"false"
+      },
    ],
    "searchResults": {
       "phones": [

@@ -22,7 +22,7 @@
          "colors": ["green","gray","yellow","pink"],
          "name": "Stylish Shirt",
          "price": "102.00",
-         "best":"true"
+         "best":"false"
       },
       {
          "id": 3,

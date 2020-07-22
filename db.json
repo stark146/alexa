@@ -7,10 +7,15 @@
          "description": "Key Features of Ligans NY Men Formal Black Genuine Leather Belt Genuine Leather Shiney Buckle,Ligans NY Men Formal Black Genuine Leather Belt (Black) Price: Rs. 695 Get recognised for your exceptional dressing sense by wearing this black coloured belt with a white shirt and grey trousers. ",
          "images": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2.jpg",
          "material": "Plastic",
-         "colors": ["red","blue","black","white"],
+         "colors": [
+            "red",
+            "blue",
+            "black",
+            "white"
+         ],
          "name": "Spring double pocket shirt",
          "price": "165.00",
-         "best":"true"
+         "best": "true"
       },
       {
          "id": 2,
@@ -19,10 +24,15 @@
          "description": "Slim Suitable For: Western Wear Sleeve: Full Sleeve Fabric: Cotton Color:Orange Pattern:Printed Number Of Contents In Package:1,Mario Gotze Women's Printed Casual Orange Shirt Price: Rs. 899 1 shirt",
          "images": "https://cdn.shopify.com/s/files/1/0752/6435/products/PLANETWHITE_7_1452x1799.jpg?v=1591729683",
          "material": "Plastic",
-         "colors": ["green","gray","yellow","pink"],
+         "colors": [
+            "green",
+            "gray",
+            "yellow",
+            "pink"
+         ],
          "name": "Stylish Shirt",
          "price": "102.00",
-         "best":"false"
+         "best": "false"
       },
       {
          "id": 3,
@@ -31,10 +41,15 @@
          "description": "Shirt General Details Pattern Printed Ideal For Women's Occasion Casual Shirt Details Sleeve Full Sleeve Number of Contents in Sales Package Pack of 1 Brand Fit Slim Fabric Cotton Fit Slim Placket Classic Collar Additional Details Style Code RRCLS-W-6107",
          "images": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2116967/2017/9/27/11506511538536-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-3781506511538347-1.jpg",
          "material": "Plastic",
-         "colors": ["yellow","pink","aqua","blueviolet"],
+         "colors": [
+            "yellow",
+            "pink",
+            "aqua",
+            "blueviolet"
+         ],
          "name": "Roadster Men Regular Fit Shirt",
          "price": "122.00",
-         "best":"true"
+         "best": "true"
       },
       {
          "id": 4,
@@ -43,20 +58,29 @@
          "name": "Pick Pocket Embroidered Women's Waistcoat",
          "pid": "WSCEFUV4TVWT73ZB",
          "price": 899,
-         "colors": ["blue","black","white","green"],
+         "colors": [
+            "blue",
+            "black",
+            "white",
+            "green"
+         ],
          "discounted_price": 899,
          "images": "http://img6a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurn2xrqf4ef.jpeg",
          "is_fk_advantage_product": false,
          "description": "Specifications of Pick Pocket Embroidered Women's Waistcoat General Details Pattern Embroidered Occasion Casual Ideal For Women's Waistcoat Details Lining Polyester Fabric Bengal Silk Additional Details Style Code TL-012 Fabric Care First Time Dry Clean",
          "brand": "Pick Pocket",
-         "best":"true"
+         "best": "true"
       },
       {
          "id": 5,
          "createdAt": "2020-06-30T23:17:56.173Z",
          "product_url": "http://www.flipkart.com/steppings-trendy-boots/p/itme96vetrndpjr7?pid=SHOE2FQCE3QFC8ZM",
          "name": "Steppings Trendy Boots",
-         "colors": ["black","white","gray"],
+         "colors": [
+            "black",
+            "white",
+            "gray"
+         ],
          "title": "Steppings Trendy Boots",
          "price": 799,
          "discounted_price": 719,
@@ -66,21 +90,32 @@
       {
          "id": 6,
          "createdAt": "2020-06-30T23:17:56.173Z",
-         "colors": ["black","white","green","gray","blueviolet"],
+         "colors": [
+            "black",
+            "white",
+            "green",
+            "gray",
+            "blueviolet"
+         ],
          "product_url": "http://www.flipkart.com/ten-women-s-black-knee-length-boots/p/itmeck2fhpccrf5p?pid=SHOECK2FYYWUT4KM",
          "name": "TEN TEN Women's Black Knee Length Boots Boots",
          "price": 4995,
          "discounted_price": 1995,
          "images": "http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
          "description": "TEN TEN Women's Black Knee Length Boots Boots",
-         "best":"false"
+         "best": "false"
       },
       {
          "id": 7,
          "createdAt": "2020-06-30T23:17:56.173Z",
          "product_url": "http://www.flipkart.com/cobra-paris-co6394a1-analog-watch-men-boys/p/itme3faxhgg8jhbr?pid=WATE3FAXGFHMASYX",
          "name": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys",
-         "colors": ["red","blue","gray","blueviolet"],
+         "colors": [
+            "red",
+            "blue",
+            "gray",
+            "blueviolet"
+         ],
          "pid": "WATE3FAXGFHMASYX",
          "price": 18995,
          "discounted_price": 15195,
@@ -88,12 +123,17 @@
          "is_fk_advantage_product": false,
          "description": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys - Buy Cobra Paris CO6394A1 Analog Watch  - For Men, Boys  CO6394A1 Online at Rs.15195 in India Only at Flipkart.com. - Great Discounts, Only Genuine Products, 30 Day Replacement Guarantee, Free Shipping. Cash On Delivery!",
          "brand": "",
-         "best":"false"
+         "best": "false"
       },
       {
          "id": 8,
          "createdAt": "2020-06-30T23:17:56.173Z",
-         "colors": ["red","gray","pink","blueviolet"],
+         "colors": [
+            "red",
+            "gray",
+            "pink",
+            "blueviolet"
+         ],
          "product_url": "http://www.flipkart.com/silver-streak-men-s-printed-casual-denim-shirt/p/itmeb5mnmvd4tzh5?pid=SHTEB5MNYHJJQGBJ",
          "name": "Silver Streak Men's Printed Casual Denim Shirt",
          "pid": "SHTEB5MNYHJJQGBJ",
@@ -102,7 +142,7 @@
          "images": "http://img6a.flixcart.com/image/shirt/g/b/j/ss-viv-pdnm-silver-streak-38-original-imaeb5bw53gfxmyz.jpeg",
          "description": "Silver Streak Men's Printed Casual Denim Shirt - Buy Blue Silver Streak Men's Printed Casual Denim Shirt For Only Rs. 1299 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
          "brand": "Slim",
-         "best":"false"
+         "best": "false"
       },
       {
          "id": 9,
@@ -111,12 +151,17 @@
          "description": "Care Instructions: Do Not use Hot Iron on Printed area, Do Not bleach, Dry in sades|Fit Type: Regular Fit|Fabric: 100% Cotton|Neck Style: Round Neck|Pattern: Printed|Sleeve Type: Half Sleeve",
          "images": "https://www.amazon.in/images/I/61oaOTHafwL._UL1500_.jpg",
          "material": "Cotton",
-         "colors": ["green","gray","violet","black"],
+         "colors": [
+            "green",
+            "gray",
+            "violet",
+            "black"
+         ],
          "name": "Men's Regular Fit T-Shirt",
          "price": "102.00",
-         "brand":"CURIOUS LIFESTYLE",
-         "best":"false"
-      },
+         "brand": "CURIOUS LIFESTYLE",
+         "best": "false"
+      }
    ],
    "searchResults": {
       "phones": [

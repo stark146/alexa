@@ -41,20 +41,11 @@
          "crawl_timestamp": "2016-03-03 07:19:26 +0000",
          "product_url": "http://www.flipkart.com/pick-pocket-embroidered-women-s-waistcoat/p/itmefuv4c2beuazq?pid=WSCEFUV4TVWT73ZB",
          "name": "Pick Pocket Embroidered Women's Waistcoat",
-         "product_category_tree": [
-            "Clothing >> Women's Clothing >> Formal Wear >> Waistcoats >> Pick Pocket Waistcoats >> Pick Pocket Embroidered Women's Waistcoat"
-         ],
          "pid": "WSCEFUV4TVWT73ZB",
          "price": 899,
          "colors": ["blue","black","white","green"],
          "discounted_price": 899,
          "images": "http://img6a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurn2xrqf4ef.jpeg",
-         "thumbs": [
-            "http://img5a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurn2xrqf4ef.jpeg",
-            "http://img5a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurnfgxqnfyn.jpeg",
-            "http://img5a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurn6tcq3fhz.jpeg",
-            "http://img6a.flixcart.com/image/waistcoat/d/z/y/tl-012-pick-pocket-xxl-original-imaefurnjgst7nqg.jpeg"
-         ],
          "is_fk_advantage_product": false,
          "description": "Specifications of Pick Pocket Embroidered Women's Waistcoat General Details Pattern Embroidered Occasion Casual Ideal For Women's Waistcoat Details Lining Polyester Fabric Bengal Silk Additional Details Style Code TL-012 Fabric Care First Time Dry Clean",
          "brand": "Pick Pocket",
@@ -67,9 +58,6 @@
          "name": "Steppings Trendy Boots",
          "colors": ["black","white","gray"],
          "title": "Steppings Trendy Boots",
-         "product_category_tree": [
-            "Footwear >> Women's Footwear >> Casual Shoes >> Boots"
-         ],
          "price": 799,
          "discounted_price": 719,
          "images": "http://img6a.flixcart.com/image/shoe/5/z/g/tan-xf-04-steppings-41-1100x1360-imaefugent2gzauz.jpeg",
@@ -81,9 +69,6 @@
          "colors": ["black","white","green","gray","blueviolet"],
          "product_url": "http://www.flipkart.com/ten-women-s-black-knee-length-boots/p/itmeck2fhpccrf5p?pid=SHOECK2FYYWUT4KM",
          "name": "TEN TEN Women's Black Knee Length Boots Boots",
-         "product_category_tree": [
-            "Footwear >> Women's Footwear >> Casual Shoes >> Boots"
-         ],
          "price": 4995,
          "discounted_price": 1995,
          "images": "http://img5a.flixcart.com/image/shoe/z/d/5/black-tenmbt-bot0016-ten-41-original-imaecjvbxggwcean.jpeg",
@@ -96,17 +81,12 @@
          "product_url": "http://www.flipkart.com/cobra-paris-co6394a1-analog-watch-men-boys/p/itme3faxhgg8jhbr?pid=WATE3FAXGFHMASYX",
          "name": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys",
          "colors": ["red","blue","gray","blueviolet"],
-         "product_category_tree": [
-            "Watches >> Wrist Watches >> Cobra Paris Wrist Watches"
-         ],
          "pid": "WATE3FAXGFHMASYX",
          "price": 18995,
          "discounted_price": 15195,
          "images": "http://img6a.flixcart.com/image/watch/s/y/x/co6394a1-cobra-paris-original-imae3ewvtzeazghm.jpeg",
          "is_fk_advantage_product": false,
          "description": "Cobra Paris CO6394A1 Analog Watch  - For Men, Boys - Buy Cobra Paris CO6394A1 Analog Watch  - For Men, Boys  CO6394A1 Online at Rs.15195 in India Only at Flipkart.com. - Great Discounts, Only Genuine Products, 30 Day Replacement Guarantee, Free Shipping. Cash On Delivery!",
-         "product_rating": "No rating available",
-         "overall_rating": "No rating available",
          "brand": "",
          "best":"false"
       },
@@ -116,9 +96,6 @@
          "colors": ["red","gray","pink","blueviolet"],
          "product_url": "http://www.flipkart.com/silver-streak-men-s-printed-casual-denim-shirt/p/itmeb5mnmvd4tzh5?pid=SHTEB5MNYHJJQGBJ",
          "name": "Silver Streak Men's Printed Casual Denim Shirt",
-         "product_category_tree": [
-            "Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Silver Streak Casual & Party Wear Shirts"
-         ],
          "pid": "SHTEB5MNYHJJQGBJ",
          "price": 1299,
          "discounted_price": 599,
